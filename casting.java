@@ -1,4 +1,4 @@
-public class intdouble {
+public class casting {
 
   public static void main(String[] args) {
     int a, b;
